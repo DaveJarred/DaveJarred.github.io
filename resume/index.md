@@ -1,6 +1,10 @@
-title: Resumé
--
-content: 
+---
+layout:  page
+title:   Resumé
+section: Resumé
+weight:  4
+---
+
 David Allen Jarred  
 1113 Harrison ave #3  
 Cincinnati, Oh, 45214  

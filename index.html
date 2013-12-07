@@ -1,13 +1,35 @@
 ---
-layout: default
-title: Your New Jekyll Site
+layout:  home
+title:   Home
+weight:  1
 ---
 
-<div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+<div class="flexslider">
+	<ul class="slides">
+		<li>
+			<a href="/galleries/">
+			<img src="/images/slideshow/1_-The-Clenching-of-the-Cold-Metal-Fist.jpg" />
+		</li>
+		<li>
+			<a href="/galleries/">
+			<img src="/images/slideshow/3_Stark.jpg" />
+		</li>
+		<li>
+			<a href="/galleries/">
+			<img src="/images/slideshow/4_A-Throne-Stained-With-History.jpg" />
+		</li>
+		<li>
+			<a href="/galleries/">
+			<img src="/images/slideshow/4_The-Eternal-Divide-Between-Frosted-Rot-and-Warm-Delicious.jpg" />
+		</li>
+		<li>
+			<a href="/galleries/">
+			<img src="/images/slideshow/6_The-Blood-Basted-Relic-of-My-Journey.jpg" />
+		</li>
+		<li>
+			<a href="/galleries/">
+			<img src="/images/slideshow/9_The-Surrogate-I-Cannot-Explain.jpg" />
+		</li>
+
+	</ul>
 </div>

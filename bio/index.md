@@ -1,11 +1,10 @@
 ---
-layout:  default
+layout:  page
 title:   Bio
 section: Bio
-weight:  2
+weight:  5
 ---
 
-content: 
 David Allen Jarred was born in Dallas,Texas May 6, 1983 to parents Barbara and Denny Jarred. Barbara and Denny moved David and his older brother, Michael, to the east bay of San Francisco when David was one. David was raised in Walnut Creek, California where he attended Las Lomas High school. In 2001 David Enrolled at CSU Long Beach to begin his Fine Arts studies. in 2003 David Transferred to Xavier University in Cincinnati where he completed his BFA in 2005. While studying in Cincinnati David gained an appreciation for the old world aesthetics and the warmth and generosity of the people of Cincinnati and decided to settle down there.  
 	
 From 2008 - 2011 David developed a body of Work known as the Drawamalgs. Featuring Minimalist black and white forms painted on color fields, the Drawamalgs, quickly developed their own momentum eventually also being realized as three-dimensional sculptures. In 2009 David reached a turning point in his career with a solo exhibition of the Drawamalgs work at the excellent 1305 Gallery in Cincinnati. In 2010 David was honored to be paired with Kevin White in “Out of Order”, the first in a series of dual shows at Thunder-Sky Inc.  

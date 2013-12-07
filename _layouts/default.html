@@ -8,6 +8,7 @@
 		<link rel="stylesheet" href="/css/animate.css" type="text/css" media="screen" />
 		<link rel="stylesheet" href="/css/flexslider.css" type="text/css" media="screen" />
 		<script src="/js/modernizr.js"></script>
+		<script src="/js/masonry.min.js"></script>
 		<meta name="viewport" content="user-scalable=no, width=device-width" />
 	</head>
 	<body>
@@ -60,5 +61,13 @@
   <!-- Optional FlexSlider Additions -->
   <script src="/js/jquery.easing.js"></script>
   <script defer src="/js/demo.js"></script>
+    <script>
+		window.onload = function() {
+			var wall = new Masonry( document.getElementById('wall'), {
+			  	itemSelector: '.item',
+			  	columnWidth: 284
+		  });
+		};
+  </script>
 	</body>
 </html>

@@ -1,5 +1,5 @@
 name: Dave Jarred
 markdown: redcarpet
 pygments: false
-permalinks: /galleries/:categories/:title
+permalink: pretty
 exclude:   ["sass"]
